@@ -1,7 +1,7 @@
 # Node
 
 - <a href="#id1">一、Node总结</a>
-- <a href="#id1">二、Node入门</a>
+- <a href="#id2">二、Node入门</a>
 
 # <a id="id1">一、Node总结</a>
 
@@ -242,7 +242,7 @@ Node入门：http://www.nodebeginner.org/index-zh-cn.html
 
 
 
-# <a id="id1">二、Node入门</a>
+# <a id="id2">二、Node入门</a>
 
 实现了Node的一个小demo [Node入门](https://www.nodebeginner.org/index-zh-cn.html#a-word-of-warning)，简单的一个应用网页，实现的功能：
 
