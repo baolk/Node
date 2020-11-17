@@ -244,7 +244,9 @@ Node入门：http://www.nodebeginner.org/index-zh-cn.html
 
 # <a id="id2">二、Node入门</a>
 
-实现了Node的一个小demo [Node入门](https://www.nodebeginner.org/index-zh-cn.html#a-word-of-warning)，简单的一个应用网页，实现的功能：
+实现了Node的一个小demo [NodeDemo](https://github.com/baolk/Node/tree/main/NodeDemo)
+参考[Node入门](https://www.nodebeginner.org/index-zh-cn.html#a-word-of-warning)
+简单的一个应用网页，实现的功能：
 
 - 浏览器能够访问到应用（需要搭建一个HTTP服务器）
 - 文件上传
